@@ -1,4 +1,4 @@
-<dev align=center>
+<dev align="center">
 
 ### Hi there 👋
 ![Photo](./assets/sunless-city-korea『pc』.gif)
