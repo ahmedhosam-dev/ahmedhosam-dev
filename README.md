@@ -1,3 +1,9 @@
+<style>  
+    *{
+        font-family: cursive;
+    }
+</style>
+
 <div align="center">
   
 [![Photo](./assets/sunless-city-korea『pc』.gif)](https://github.com/ahmedhosam-dev)
@@ -5,6 +11,8 @@
 Background GIF by [Anɗℝeͥssͣaͫŋ](https://www.pinterest.com/ANDRESSAN956/) on [Pinterest](https://www.pinterest.com/).
 
 </div>
+
+
 <!--
 **ahmedhosam-dev/ahmedhosam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
