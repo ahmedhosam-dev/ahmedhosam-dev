@@ -1,7 +1,7 @@
 
 <div align="center">
   
-[![Photo](./assets/sunless-city-korea『pc』.gif)](https://github.com/ahmedhosam-dev)
+[![gif](./assets/sunless-city-korea『pc』.gif)](https://github.com/ahmedhosam-dev)
 
 Background GIF by [Anɗℝeͥssͣaͫŋ](https://www.pinterest.com/ANDRESSAN956/) on [Pinterest](https://www.pinterest.com/).
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <style>
-    
+
     *{
         font-family: cursive;
     }
