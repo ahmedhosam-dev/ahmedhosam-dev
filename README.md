@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>  
+<style>
+    
     *{
         font-family: cursive;
     }
+
 </style>
