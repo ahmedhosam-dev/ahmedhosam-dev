@@ -1,8 +1,3 @@
-<style>  
-    *{
-        font-family: cursive;
-    }
-</style>
 
 <div align="center">
   
@@ -27,3 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>  
+    *{
+        font-family: cursive;
+    }
+</style>
