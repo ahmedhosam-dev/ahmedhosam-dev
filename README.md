@@ -1,9 +1,6 @@
-
 <div align="center">
-  
-[![gif](./assets/sunless-city-korea『pc』.gif)](https://github.com/ahmedhosam-dev)
 
-Background GIF by [Anɗℝeͥssͣaͫŋ](https://www.pinterest.com/ANDRESSAN956/) on [Pinterest](https://www.pinterest.com/).
+# Hello, world!
 
 </div>
 
@@ -22,11 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style>
-
-    *{
-        font-family: cursive;
-    }
-
-</style>
