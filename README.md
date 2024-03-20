@@ -2,6 +2,8 @@
 
 # Hello, world!
 
+![Hello, world](./assets/helloworld.gif)
+
 </div>
 
 
