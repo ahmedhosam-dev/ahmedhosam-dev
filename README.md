@@ -1,16 +1,15 @@
 <div align="center">  
 
-# Hello, world!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&weight=500&pause=1000&color=E7AF3F&center=true&vCenter=true&random=false&width=435&lines=Nice+to+meet+you+%F0%9F%91%8B.;Stay+comfortable+and+enjoy.)](https://git.io/typing-svg)
-
-![Hello, world](./assets/helloworld.gif)
-
-
+# Hi 👋!
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&weight=200&pause=1000&color=22E2FF&random=false&width=435&lines=Nice+to+meet+you.;Stay+comfortable+and+enjoy.)](https://git.io/typing-svg)
+
+![Hello, world](https://i.pinimg.com/originals/a8/1d/e3/a81de3c3bfa8b6e8951d5d31f1f63aa4.gif)
+
+###### My CV -> [Ahmed Hosam.pdf](google.com)
 
 <!--
-**ahmedhosam-dev/ahmedhosam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
