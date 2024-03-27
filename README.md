@@ -4,8 +4,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&weight=200&pause=1000&color=22E2FF&random=false&width=435&lines=Nice+to+meet+you.;Stay+comfortable+and+enjoy.)](https://git.io/typing-svg)
-
-![Hello, world](https://i.pinimg.com/originals/a8/1d/e3/a81de3c3bfa8b6e8951d5d31f1f63aa4.gif)
+![](https://i.pinimg.com/originals/95/a5/99/95a599c5735a7c8892121610ddef772c.gif)
 
 ###### My CV -> [Ahmed Hosam.pdf](google.com)
 
