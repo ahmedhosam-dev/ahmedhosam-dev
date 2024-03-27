@@ -1,10 +1,9 @@
 <div align="center">  
 
 # Hello, world!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&weight=500&pause=1000&color=E7AF3F&center=true&vCenter=true&random=false&width=435&lines=Nice+to+meet+you+%F0%9F%91%8B.;Stay+comfortable+and+enjoy.)](https://git.io/typing-svg)
 
 ![Hello, world](./assets/helloworld.gif)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&weight=500&pause=1000&color=E7AF3F&center=true&vCenter=true&random=false&width=435&lines=Nice+to+meet+you+%F0%9F%91%8B.;Stay+comfortable+and+enjoy.)]
 
 
 </div>
