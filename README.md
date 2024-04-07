@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&weight=200&pause=1000&color=22E2FF&random=false&width=435&lines=Nice+to+meet+you.;Stay+comfortable+and+enjoy.)](https://git.io/typing-svg) 
 ![](https://i.pinimg.com/originals/95/a5/99/95a599c5735a7c8892121610ddef772c.gif)
 
-###### My CV -> [Ahmed Hosam.pdf](google.com)
+###### My CV -> [Ahmed Hosam.pdf](./CV/Ahmed%20Hosam.pdf)
 ---
 <div align="center">
 
@@ -14,6 +14,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="php" width="45" height="45"/>
 </p>
+
+Under construction 🛠️
 
 </div>
 
