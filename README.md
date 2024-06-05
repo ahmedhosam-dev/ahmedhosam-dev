@@ -13,7 +13,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="php" width="45" height="45"/>
-<i class="devicon-nodejs-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          
           
 </p>
 
