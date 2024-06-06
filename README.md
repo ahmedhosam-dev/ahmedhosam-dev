@@ -36,10 +36,7 @@
           
 </p>
 
-Under construction 🛠️
-
 </div>
-
 
 <!--
 
